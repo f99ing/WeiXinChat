@@ -1,0 +1,1 @@
+android update project   --target 8 --path .
